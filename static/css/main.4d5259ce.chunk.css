@@ -1,0 +1,2 @@
+.App{display:-webkit-flex;display:flex;-webkit-flex-direction:column;flex-direction:column;-webkit-justify-content:center;justify-content:center;-webkit-align-items:center;align-items:center}.card-body{text-align:center}.board{width:90vw}.card{transition:-webkit-transform .2s;transition:transform .2s;transition:transform .2s,-webkit-transform .2s}.card:hover{-webkit-transform:scale(1.1);transform:scale(1.1);z-index:2}.card-title{height:2.5rem}
+/*# sourceMappingURL=main.4d5259ce.chunk.css.map */

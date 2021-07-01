@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.4d5259ce.chunk.css",
+    "main.js": "/memory-card/static/js/main.ef678b72.chunk.js",
+    "main.js.map": "/memory-card/static/js/main.ef678b72.chunk.js.map",
+    "runtime-main.js": "/memory-card/static/js/runtime-main.5e1d5d79.js",
+    "runtime-main.js.map": "/memory-card/static/js/runtime-main.5e1d5d79.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/memory-card/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.88ea871e.chunk.js": "/memory-card/static/js/2.88ea871e.chunk.js",
+    "static/js/2.88ea871e.chunk.js.map": "/memory-card/static/js/2.88ea871e.chunk.js.map",
+    "index.html": "/memory-card/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/memory-card/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.4d5259ce.chunk.css.map": "/memory-card/static/css/main.4d5259ce.chunk.css.map",
+    "static/js/2.88ea871e.chunk.js.LICENSE.txt": "/memory-card/static/js/2.88ea871e.chunk.js.LICENSE.txt",
+    "static/media/CalloftheHaunted.228bdd50.png": "/memory-card/static/media/CalloftheHaunted.228bdd50.png",
+    "static/media/DarkHole.1ef88622.png": "/memory-card/static/media/DarkHole.1ef88622.png",
+    "static/media/GracefulCharity.7937d3d3.png": "/memory-card/static/media/GracefulCharity.7937d3d3.png",
+    "static/media/MagicJammer.6f1614e8.png": "/memory-card/static/media/MagicJammer.6f1614e8.png",
+    "static/media/MirrorForce.b8aed109.png": "/memory-card/static/media/MirrorForce.b8aed109.png",
+    "static/media/MonsterReborn.7a4134d8.png": "/memory-card/static/media/MonsterReborn.7a4134d8.png",
+    "static/media/MysticalSpaceTyphoon.89fc842f.png": "/memory-card/static/media/MysticalSpaceTyphoon.89fc842f.png",
+    "static/media/NegateAttack.11a5470c.png": "/memory-card/static/media/NegateAttack.11a5470c.png",
+    "static/media/Polymerization.aaec7d4d.png": "/memory-card/static/media/Polymerization.aaec7d4d.png",
+    "static/media/PotofGreed.56aeca87.png": "/memory-card/static/media/PotofGreed.56aeca87.png",
+    "static/media/Raigeki.19eb024e.png": "/memory-card/static/media/Raigeki.19eb024e.png",
+    "static/media/SwordsofRevealingLight.3b233941.png": "/memory-card/static/media/SwordsofRevealingLight.3b233941.png",
+    "static/media/TorrentialTribute.2876f1e6.png": "/memory-card/static/media/TorrentialTribute.2876f1e6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e1d5d79.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.88ea871e.chunk.js",
+    "static/css/main.4d5259ce.chunk.css",
+    "static/js/main.ef678b72.chunk.js"
+  ]
+}
